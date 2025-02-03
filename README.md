@@ -1,4 +1,4 @@
-# MIT Privacy Scientist Dashboard
+# MIT Media Lab Camera Culture Group Privacy System Scientist Dashboard
 **This is reference implementation for the users with "developer" role who can follow the code to develop newer versions**
 
 This is React.js app that allows the data scientists to get the data posted by users on a histogram. This app gets the data from API hosted by the [Privacy Guardian](https://github.com/nytron88/mit-privacy-backend). The app requests data from 2 instances of the Privacy Guardian: R_SEVER and X_R_SERVER. The UI refreshes itself automatically at regular intervals to update the histogram.
